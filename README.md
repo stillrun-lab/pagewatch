@@ -98,6 +98,6 @@ and businesses.
 
 **Built by [Stillrun Lab](https://github.com/stillrun-lab)** — automation systems built to run themselves.
 
-- 💼 Hire me on Upwork: *(link coming soon)*
-- 🐦 [@trade_4l on X](https://x.com/trade_4l)
-- 📧 *(email coming soon)
+- 💼 Hire me on Upwork: [*(link coming soon)*](https://www.upwork.com/freelancers/~017cd33799aae9dd5f?mp_source=share)
+- 🐦 [@trade_4l on X](https://x.com/stillrun_lab))
+- 📧 stillrunlab@gmail.com
