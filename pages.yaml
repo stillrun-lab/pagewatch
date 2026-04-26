@@ -1,0 +1,17 @@
+# Pagewatch — page watch list
+#
+# name:     friendly label used in notifications
+# url:      full URL including scheme
+# selector: optional CSS selector to scope which part of the page to watch
+#           (lets you ignore ads, timestamps, view counters, etc.)
+
+pages:
+  - name: "Hacker News front page"
+    url: "https://news.ycombinator.com"
+    selector: "tr.athing"
+
+  - name: "Python — latest releases"
+    url: "https://www.python.org/downloads/"
+
+  - name: "GitHub Trending — Python"
+    url: "https://github.com/trending/python"
