@@ -100,4 +100,4 @@ and businesses.
 
 - 💼 Hire me on Upwork: *(link coming soon)*
 - 🐦 [@trade_4l on X](https://x.com/trade_4l)
-- 📧 *(email coming soon)*
+- 📧 *(email coming soon)
