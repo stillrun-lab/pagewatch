@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "eadbe7ea68db27963a7a684d3fc4109c6dfb4a9bbe9fcd58541049801dde6236",
-    "checked": "2026-06-24T19:56:55.663336+00:00",
-    "excerpt": "1. OpenAI unveils its first custom chip, built by Broadcom ( techcrunch.com ) 2. Thomann takes..."
+    "hash": "a4a04794acabe5a8a50bc3b0a9040840bfb1f58007e778677d4eae40f8461d13",
+    "checked": "2026-06-24T21:37:46.452703+00:00",
+    "excerpt": "1. OpenAI unveils its first custom chip, built by Broadcom ( techcrunch.com ) 2. RubyLLM: A Ruby..."
   },
   "https://www.python.org/downloads/": {
-    "hash": "1f2e67dabd5d9e1cf6ccbc69ec976f3d45df2f14ea004c3437c5107a09681fdd",
-    "checked": "2026-06-24T19:56:55.663336+00:00",
+    "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
+    "checked": "2026-06-24T21:37:46.452703+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "545605f7e0f18c236f40b7937079696575f704d5d02b4e590bafe181c595f215",
-    "checked": "2026-06-24T19:56:55.663336+00:00",
+    "hash": "835278001573abe85bc92456665e5ad32cc15e8aa8ea705b161a346559fedce3",
+    "checked": "2026-06-24T21:37:46.452703+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
