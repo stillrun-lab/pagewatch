@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "71e85526f568a86fa2949e18178fa00ddd295a88c5b5ddd15fa7b2a141bc3ad6",
-    "checked": "2026-06-24T12:20:46.681826+00:00",
-    "excerpt": "1. We're making Bunny DNS free: because a faster internet won't build itself ( bunny.net ) 2. Krea..."
+    "hash": "7ddf09a963ddd6328fb547c0dda4f2b29467f84745cfbf3795edc5c70ecd4b5e",
+    "checked": "2026-06-24T15:33:55.907240+00:00",
+    "excerpt": "1. RubyLLM: A single, beautiful Ruby framework for all major AI providers ( rubyllm.com ) 2. We're..."
   },
   "https://www.python.org/downloads/": {
     "hash": "1f2e67dabd5d9e1cf6ccbc69ec976f3d45df2f14ea004c3437c5107a09681fdd",
-    "checked": "2026-06-24T12:20:46.681826+00:00",
+    "checked": "2026-06-24T15:33:55.907240+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "f8be2cdfe857b91bebc5f11640fe2b52915a79bafc53cd493340581ed2c60942",
-    "checked": "2026-06-24T12:20:46.681826+00:00",
+    "hash": "ebd4b1e5e68aae02763993f6787afc8eada521503e56101abba03ce89bd82038",
+    "checked": "2026-06-24T15:33:55.907240+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
