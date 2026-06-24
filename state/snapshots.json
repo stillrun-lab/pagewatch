@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "7ddf09a963ddd6328fb547c0dda4f2b29467f84745cfbf3795edc5c70ecd4b5e",
-    "checked": "2026-06-24T15:33:55.907240+00:00",
-    "excerpt": "1. RubyLLM: A single, beautiful Ruby framework for all major AI providers ( rubyllm.com ) 2. We're..."
+    "hash": "f70744fa4c75c74b518374611ab968fd50f397b4f646b61bdf0c50f2850d7406",
+    "checked": "2026-06-24T17:56:46.700352+00:00",
+    "excerpt": "1. John Carmack on the mistakes around Quake that ruined id software ( twitter.com/id_aa_carmack )..."
   },
   "https://www.python.org/downloads/": {
     "hash": "1f2e67dabd5d9e1cf6ccbc69ec976f3d45df2f14ea004c3437c5107a09681fdd",
-    "checked": "2026-06-24T15:33:55.907240+00:00",
+    "checked": "2026-06-24T17:56:46.700352+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "ebd4b1e5e68aae02763993f6787afc8eada521503e56101abba03ce89bd82038",
-    "checked": "2026-06-24T15:33:55.907240+00:00",
+    "hash": "b75e14bd0bdf0e5cf869d9a2cd81f2d026e2a52244fc439ddf10c5ede5c0e393",
+    "checked": "2026-06-24T17:56:46.700352+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
