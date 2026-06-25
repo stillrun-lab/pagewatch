@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "a6b67c4ee76516d0524807059fbdf8f321b49ee7af0d17171a1e4e0223c10093",
-    "checked": "2026-06-25T16:27:55.883651+00:00",
-    "excerpt": "1. Show HN: I made Google Trends for Hacker News by indexing 18 years of comments (..."
+    "hash": "fe91bd1cdd73a6790aca27205e2f24c75aa40c548ce258c636454bc4971ad891",
+    "checked": "2026-06-25T19:06:40.951643+00:00",
+    "excerpt": "1. A Herculaneum scroll has been read for the first time ( scrollprize.org ) 2. IBM debuts sub-1..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-25T16:27:55.883651+00:00",
+    "checked": "2026-06-25T19:06:40.951643+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "f29eda117ef2b6567c9cfb7dccf94d1817f238883d270cb95c6f8e66855c2513",
-    "checked": "2026-06-25T16:27:55.883651+00:00",
+    "hash": "b4ec41eede918a5e7fa2edfd7bd12c3dfa20b5b498d98cd7ded3486650116492",
+    "checked": "2026-06-25T19:06:40.951643+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
