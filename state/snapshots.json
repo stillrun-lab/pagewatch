@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "cb7c88476a8ce886e89bdc38bbae7fb4e94db696c613be6ad2a17065af7c0e85",
-    "checked": "2026-06-25T03:52:48.618078+00:00",
-    "excerpt": "1. OpenAI unveils its first custom chip, built by Broadcom ( techcrunch.com ) 2. Anthropic says..."
+    "hash": "422cc6101b3b5b8c2f2a69433b9ae855946a00d45e4db7742a3c6db4087dd003",
+    "checked": "2026-06-25T07:48:36.097486+00:00",
+    "excerpt": "1. Half-Life 2 in a Browser ( slqnt.dev ) 2. Anthropic says Alibaba illicitly extracted Claude AI..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-25T03:52:48.618078+00:00",
+    "checked": "2026-06-25T07:48:36.097486+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "8b1a350ec2849dcf3b9b2216501821e65db23dd41e3d4495b60888640ad05d36",
-    "checked": "2026-06-25T03:52:48.618078+00:00",
+    "hash": "691bf522d9809b42fc9add856c2cdc57ab13bb2230f340e35669b8c19e87a9b0",
+    "checked": "2026-06-25T07:48:36.097486+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
