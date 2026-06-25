@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "f370499156da687573026060e2d5a0a07a2eafd243e3943afd27cf5b7ab25d4b",
-    "checked": "2026-06-25T21:45:53.066235+00:00",
-    "excerpt": "1. An entire Herculaneum scroll has been read for the first time ( scrollprize.org ) 2. Oxide..."
+    "hash": "f87254f90edb6bb883bf5748e27148fd40c797c4477931f3386c71f29630eecf",
+    "checked": "2026-06-25T23:20:50.011176+00:00",
+    "excerpt": "1. The 'papers, please' era of the internet will decimate your privacy ( fire.org ) 2. An entire..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-25T21:45:53.066235+00:00",
+    "checked": "2026-06-25T23:20:50.011176+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "de07f6c2cb70b51f1cbe7c999edd85f69335f194b91bd82bd60dd194eeec36ae",
-    "checked": "2026-06-25T21:45:53.066235+00:00",
+    "hash": "5b1c95c9fc1f97512a38a8ad9e5d4b1dd97cab1a1c86f41093f26eff7a0eabc9",
+    "checked": "2026-06-25T23:20:50.011176+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
