@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "2cd175da3450a21e0a04d574f6fb34ca5cc7c5a5ab725efa9161bed895d00d72",
-    "checked": "2026-06-26T07:59:50.907818+00:00",
-    "excerpt": "1. Om Malik has died ( om.co ) 2. An entire Herculaneum scroll has been read for the first time (..."
+    "hash": "5fb88c3f033c98a6938510144dbd7ba6868b6c6d5cd9237aa321975fe39d5ce7",
+    "checked": "2026-06-26T11:11:42.441994+00:00",
+    "excerpt": "1. We All Depend on Open Source. We Will Defend It Together ( akrites.org ) 2. Om Malik has died (..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-26T07:59:50.907818+00:00",
+    "checked": "2026-06-26T11:11:42.441994+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "32e45d64f84f9aba8032b010535e7dbee29a90ac1e92cb1f2eaa97c6634c870c",
-    "checked": "2026-06-26T07:59:50.907818+00:00",
+    "hash": "147a86e4495e7f73df4af3e2ef7d7d24d94d191b3299de57e7e6539dffb5b4f6",
+    "checked": "2026-06-26T11:11:42.441994+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
