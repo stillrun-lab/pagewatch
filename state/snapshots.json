@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "03924fc13cb9645792c8eb6d26bb59ed7535d0e5a60185c610af0e0eb797f9ed",
-    "checked": "2026-06-27T06:54:32.040902+00:00",
-    "excerpt": "1. OpenTTD 16.0-Beta1 ( openttd.org ) 2. Previewing GPT\u20115.6 Sol: a next-generation model (..."
+    "hash": "af797f9f56fb9d88dbc72d85528107f5d74b219c3408b541110e782bd949e663",
+    "checked": "2026-06-27T09:29:58.726428+00:00",
+    "excerpt": "1. Previewing GPT\u20115.6 Sol: a next-generation model ( openai.com ) 2. Linux on Older Hardware: The..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-27T06:54:32.040902+00:00",
+    "checked": "2026-06-27T09:29:58.726428+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "0d867dd00d71ebabbe0bc40b6a51209ed1720dd26fd5ae60d5be7782a52c463b",
-    "checked": "2026-06-27T06:54:32.040902+00:00",
+    "hash": "5cd8d81286477cc965888f70ecad0e940a817073f725b568eed0cd5598138950",
+    "checked": "2026-06-27T09:29:58.726428+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
