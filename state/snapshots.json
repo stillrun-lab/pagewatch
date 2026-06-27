@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "a3b78705bc7dd15fd4681c756f1c26fef058c12b8a01782537ad4c2677e6455e",
-    "checked": "2026-06-27T19:24:33.980860+00:00",
-    "excerpt": "1. Anonymous GitHub account mass-dropping undisclosed 0-days ( github.com/bikini ) 2. OpenRA (..."
+    "hash": "1a063ecedbda68a6ad526351e5ea3013a9326346c7d945996131c54e03466dad",
+    "checked": "2026-06-27T21:07:22.411942+00:00",
+    "excerpt": "1. IP Crawl: Living atlas of open webcams discovered on the public internet ( ipcrawl.com ) 2...."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-27T19:24:33.980860+00:00",
+    "checked": "2026-06-27T21:07:22.411942+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "83d983be3971d7909365da1bcca5fb1e5127f3b8a9738fd480cee65039193167",
-    "checked": "2026-06-27T19:24:33.980860+00:00",
+    "hash": "1b7fef3e0498ace3c1d300f6898e3ecec83a37669aaff8289b8dfcf9f8ad5cef",
+    "checked": "2026-06-27T21:07:22.411942+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
