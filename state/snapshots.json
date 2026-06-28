@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "8dd749e3807d04d787b58eb180911cac18c8fd92307d4cd3cb52c69f8e61ded5",
-    "checked": "2026-06-28T11:09:45.042163+00:00",
-    "excerpt": "1. Marfa Public Radio Puts You to Sleep ( marfapublicradio.org ) 2. Bashblog \u2013 a single bash script..."
+    "hash": "f8ee9caf551160683dc3cc8071cfbfb8664289d84325967e193453fd0f4edb3c",
+    "checked": "2026-06-28T13:52:27.827588+00:00",
+    "excerpt": "1. A way to exclude sensitive files issue still open for OpenAI Codex ( github.com/openai ) 2...."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-28T11:09:45.042163+00:00",
+    "checked": "2026-06-28T13:52:27.827588+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "06e7d90f4489e45afd118f9e1c5dae8442e4506c27ea7f2d37ee4755184980c8",
-    "checked": "2026-06-28T11:09:45.042163+00:00",
+    "hash": "23c43bf78c1458738858881e624247b0238b97c81c4dcf43330e8fdfe9b7cb65",
+    "checked": "2026-06-28T13:52:27.827588+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
