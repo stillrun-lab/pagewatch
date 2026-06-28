@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "f3f1c56ed57803a2000d9ed50c46f82357d79e5f14496777487605b1aad4838f",
-    "checked": "2026-06-28T08:22:53.569806+00:00",
-    "excerpt": "1. Marfa Public Radio Puts You to Sleep ( marfapublicradio.org ) 2. Wayfinder Router: deterministic..."
+    "hash": "8dd749e3807d04d787b58eb180911cac18c8fd92307d4cd3cb52c69f8e61ded5",
+    "checked": "2026-06-28T11:09:45.042163+00:00",
+    "excerpt": "1. Marfa Public Radio Puts You to Sleep ( marfapublicradio.org ) 2. Bashblog \u2013 a single bash script..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-28T08:22:53.569806+00:00",
+    "checked": "2026-06-28T11:09:45.042163+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "ba9301bc1c32a457757c5438a14aa08589946e95dee819a735eef1c0e33a5c73",
-    "checked": "2026-06-28T08:22:53.569806+00:00",
+    "hash": "06e7d90f4489e45afd118f9e1c5dae8442e4506c27ea7f2d37ee4755184980c8",
+    "checked": "2026-06-28T11:09:45.042163+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
