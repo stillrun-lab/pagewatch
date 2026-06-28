@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "748173b2cf1078cf3cd2a92a1acbe7d040c1a043efa7bb68ae9fe81b20a04f8a",
-    "checked": "2026-06-28T19:24:49.329713+00:00",
-    "excerpt": "1. The cost YAGNI was never about ( kentbeck.com ) 2. 5k Restaurant Menus, Years 1880-1920 (..."
+    "hash": "1170a0c82481a5b2d9ef8b460fdbfb30d07016c9a07221c9b3cb916502a6d101",
+    "checked": "2026-06-28T21:04:41.109737+00:00",
+    "excerpt": "1. 5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920) ( pudding.cool ) 2...."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-28T19:24:49.329713+00:00",
+    "checked": "2026-06-28T21:04:41.109737+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "4aa74bd93ae03e05e2f18d9c2bdd1be5315b07e89c8da545ac53ac94149f39fb",
-    "checked": "2026-06-28T19:24:49.329713+00:00",
+    "hash": "6242823cee62bacde611adfc2c3f2c567051ef1f81deb2e82e4ce6da906d1b50",
+    "checked": "2026-06-28T21:04:41.109737+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
