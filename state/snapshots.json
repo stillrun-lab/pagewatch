@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "cb8812d99e9e09167e78643118d0d6b8b339f01f36b0f5e02f5159d90ace15dc",
-    "checked": "2026-06-28T15:19:34.669721+00:00",
-    "excerpt": "1. EU Open Sources Ten-Year Network Development Planning Tools ( github.com/open-energy-transition..."
+    "hash": "95f437eb019f862e3c018c85d705f2131e6702a4ee1bb9e30c311a7235b140d2",
+    "checked": "2026-06-28T17:16:11.417636+00:00",
+    "excerpt": "1. 5k Restaurant Menus, Years 1880-1920 ( pudding.cool ) 2. Daisugi the Japanese Technique of Trees..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-28T15:19:34.669721+00:00",
+    "checked": "2026-06-28T17:16:11.417636+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "acd9b9c9945e3151d9eaa604de00b81ff28d07a9edc9e63cdc8ba8792d323a88",
-    "checked": "2026-06-28T15:19:34.669721+00:00",
+    "hash": "eed103caa92c1b5009edc15095760a712f2271a865ab71637165b0687e6510f4",
+    "checked": "2026-06-28T17:16:11.417636+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
