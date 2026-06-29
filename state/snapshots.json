@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "bfe9622ea0dc44adc66762f5f12efbc30734e7af43f1cc6eb2d1aafedfa57cbe",
-    "checked": "2026-06-29T04:12:48.355808+00:00",
-    "excerpt": "1. Age verification is just a precursor to automated attribution of speech ( nonogra.ph ) 2. GLM..."
+    "hash": "f090ee8cc77aa6d1c62e481dead4f732c21225434602cda4618b0c699674bf2a",
+    "checked": "2026-06-29T09:49:28.038395+00:00",
+    "excerpt": "1. HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88 ( danunparsed.com..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-29T04:12:48.355808+00:00",
+    "checked": "2026-06-29T09:49:28.038395+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "c2d23db4369973ec184649b11b4784e98189d4c61eac02bfdcaade53f5ea6d35",
-    "checked": "2026-06-29T04:12:48.355808+00:00",
+    "hash": "9a8cdbf696d166059d3b041156fb50b9903641a87d4f63428a92519b37ed2565",
+    "checked": "2026-06-29T09:49:28.038395+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
