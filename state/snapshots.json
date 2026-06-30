@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "5a2f87326b725051a50859a18563c5ec2fdd2180ebc09694810c9efe5b5399ac",
-    "checked": "2026-06-29T22:09:59.675175+00:00",
-    "excerpt": "1. Qwen 3.6 27B is the sweet spot for local development ( quesma.com ) 2. .self: A new top-level..."
+    "hash": "b9bba32230e944d9838229f033c4afcd1385a876a7b1e3a1696adeca8f75bcb8",
+    "checked": "2026-06-30T00:06:47.463031+00:00",
+    "excerpt": "1. .self: A new top-level domain designed to support self-hosting ( onmy.cloud ) 2. Qwen 3.6 27B is..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-29T22:09:59.675175+00:00",
+    "checked": "2026-06-30T00:06:47.463031+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "f6c4aa2f23932adfef4d72a3065b4bee4f41e4781b4832ac364808e0d384687d",
-    "checked": "2026-06-29T22:09:59.675175+00:00",
+    "hash": "7f99e15952809bf896e11624c091abf4988456aeba82ec48fe6e7388171dbd22",
+    "checked": "2026-06-30T00:06:47.463031+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
