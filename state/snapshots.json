@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "2cc6d5e79413f08a56e4136348efdec38352e0499fbe7f8bacb8407052115dc4",
-    "checked": "2026-06-30T12:11:35.574818+00:00",
-    "excerpt": "1. European digital ID wallets are a gift to Google and Apple ( waag.org ) 2. Exercise intensity..."
+    "hash": "72790028a042acdbab0de51b0235898290489078181184bca01456d0ebeb8e91",
+    "checked": "2026-06-30T15:30:59.717491+00:00",
+    "excerpt": "1. Looking Ahead to Postgres 19 ( snowflake.com ) 2. Memoirs of Extraordinary Popular Delusions and..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-30T12:11:35.574818+00:00",
+    "checked": "2026-06-30T15:30:59.717491+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "79a0a312030b8f4815a7f930c3bc9e769e983dc23e3db2ae3d95d2bc597f3f39",
-    "checked": "2026-06-30T12:11:35.574818+00:00",
+    "hash": "0848baee7e61f6ff391cedd3f473095357e41222095045696e1d0994938fc420",
+    "checked": "2026-06-30T15:30:59.717491+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
