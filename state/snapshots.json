@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "6faabb21e85d02ff9fe13a18721fd13289ddb7f329d387d1021453a4dfd75141",
-    "checked": "2026-07-01T17:59:23.256644+00:00",
-    "excerpt": "1. For first time, a cell built from scratch grows and divides ( quantamagazine.org ) 2. Physical..."
+    "hash": "0991ab29a72f39e3ab8cc4ceecbaf3d3d89b66c6952b0d3f42e53bdf3230d29e",
+    "checked": "2026-07-01T20:06:57.576488+00:00",
+    "excerpt": "1. ZCode: Claude Code from the Makers of GLM ( z.ai ) 2. For first time, a cell built from scratch..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-07-01T17:59:23.256644+00:00",
+    "checked": "2026-07-01T20:06:57.576488+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "18bcc8a58669a9dad25315357308b1d32a528eca676529f1733407256c66848b",
-    "checked": "2026-07-01T17:59:23.256644+00:00",
+    "hash": "bfd67d65b23c35e4919bba04c1a40a8cf4edc0189961df98c907463f566e97d4",
+    "checked": "2026-07-01T20:06:57.576488+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
