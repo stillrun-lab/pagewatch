@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "4384ec67121a032fba31ea5dd29219ee3c7e45c71dfaa2beaae93ec77d088c67",
-    "checked": "2026-06-30T22:16:39.706436+00:00",
+    "hash": "c0f1c23bbe104c589dd9f4365f62b0290440b8b6625fda9facffb5aacf1fa56a",
+    "checked": "2026-07-01T00:08:14.816789+00:00",
     "excerpt": "1. Claude Sonnet 5 ( anthropic.com ) 2. Claude Code is steganographically marking requests (..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-06-30T22:16:39.706436+00:00",
+    "checked": "2026-07-01T00:08:14.816789+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "e8ea0661a3fbdf4260c6f2d907e553d286897a1189d482c0166ba34a710740f6",
-    "checked": "2026-06-30T22:16:39.706436+00:00",
+    "hash": "adc2505ca98cf867a9ca07538f695872294cae4bc5f1df695939c924d5ecddda",
+    "checked": "2026-07-01T00:08:14.816789+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
