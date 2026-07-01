@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "1f1b763a0d6090c0799a03d217260090e62934badd5790b11b0a1f2afe2eb8f9",
-    "checked": "2026-07-01T09:53:20.655924+00:00",
-    "excerpt": "1. Claude Code is steganographically marking requests ( thereallo.dev ) 2. Claude Sonnet 5 (..."
+    "hash": "271ea3121d96b2f91967086f7a01562b5c913f1ae8a472a18aace7d04cd17a48",
+    "checked": "2026-07-01T12:35:30.272735+00:00",
+    "excerpt": "1. Asahi Linux 7.1 Progress Report ( asahilinux.org ) 2. Single Dose of Frog-Derived Gut Bacterium..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-07-01T09:53:20.655924+00:00",
+    "checked": "2026-07-01T12:35:30.272735+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "0540327d7a21c125b794b7d1ff16ff298fbe8d4185508591eaf1a7e375cc4465",
-    "checked": "2026-07-01T09:53:20.655924+00:00",
+    "hash": "005d11680f214ec6b8f3c994af6fa99352c3c57770bc532a67361fcf97a73081",
+    "checked": "2026-07-01T12:35:30.272735+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
