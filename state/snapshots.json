@@ -1,17 +1,17 @@
 {
   "https://news.ycombinator.com": {
-    "hash": "77d20d3fca4dfb757d13e8f39361770c474020ac4164799a4d05d3ce7de48ef1",
-    "checked": "2026-07-02T00:11:01.526534+00:00",
-    "excerpt": "1. ZCode \u2013 Harness for GLM-5.2 ( z.ai ) 2. Show HN: Searchable directory of 22k+ products from..."
+    "hash": "7c5730fe98375179f87850c2f2a12975b6d75cc5c83539ab9e67e84f40810e92",
+    "checked": "2026-07-02T04:59:29.550839+00:00",
+    "excerpt": "1. ZCode \u2013 Harness for GLM-5.2 ( z.ai ) 2. Oomwoo, an open-source robot vacuum you build yourself (..."
   },
   "https://www.python.org/downloads/": {
     "hash": "5398a1fd40a788f4b8f632f94c3ae9c94e7602df91135530deb8651216b96757",
-    "checked": "2026-07-02T00:11:01.526534+00:00",
+    "checked": "2026-07-02T04:59:29.550839+00:00",
     "excerpt": "Download Python | Python.org Notice: This page displays a fallback because interactive scripts did..."
   },
   "https://github.com/trending/python": {
-    "hash": "44f2361f2d3928dd28766a1229c55bc5348b4f6b6daaa30010758c725570838b",
-    "checked": "2026-07-02T00:11:01.526534+00:00",
+    "hash": "2410b1ff95132d16e83aa423b6eb7d010bc065400a3e3ee0b863497727738a03",
+    "checked": "2026-07-02T04:59:29.550839+00:00",
     "excerpt": "Trending Python repositories on GitHub today \u00b7 GitHub Skip to content Navigation Menu Toggle..."
   }
 }
